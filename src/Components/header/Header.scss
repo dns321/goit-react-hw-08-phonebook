@@ -1,0 +1,26 @@
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px;
+}
+
+.nav-items-list {
+  list-style: none;
+  display: flex;
+}
+
+.nav-item-list {
+  margin-right: 20px;
+}
+
+.nav-item-list:last-child {
+  margin-right: 0;
+}
+
+.nav-item-link {
+  text-decoration: none;
+}
+
+.activ-nav-item-link {
+  color: red;
+}
