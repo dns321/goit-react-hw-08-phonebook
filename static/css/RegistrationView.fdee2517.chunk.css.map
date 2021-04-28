@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles/StyleViews.scss"],"names":[],"mappings":"AAAA,+BAEE,WAAY,CACb,iCAIC,YAAa,CACb,qBAAsB,CACtB,kBAAmB","file":"RegistrationView.fdee2517.chunk.css","sourcesContent":[".login-form,\n.registration-form {\n  width: 320px;\n}\n\n.logit-label,\n.registration-label {\n  display: flex;\n  flex-direction: column;\n  margin-bottom: 15px;\n}\n"]}
